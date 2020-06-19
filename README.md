@@ -1,6 +1,6 @@
 ## Railway Booking Portal
 
-DBMS Lab project for Sem IV, MIT Manipal
+DBMS Lab project made using Nodejs and MySQL
 
 .env example 
 
