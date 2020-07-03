@@ -1,8 +1,6 @@
 ## Railway Booking Portal
 
-DBMS Lab project made using Nodejs and MySQL
-
-.env example 
+.env
 
 DB_HOST = \
 DB_USER = \
